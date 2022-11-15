@@ -165,6 +165,7 @@ namespace NavegadorModelo
             return save;
            
         }*/
+        /*
         public string reporteestado(string id)
         {
            
@@ -210,7 +211,7 @@ namespace NavegadorModelo
 
             return ubicacion;
 
-        }
+        }*/
 
     }
 }

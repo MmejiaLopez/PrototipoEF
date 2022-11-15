@@ -42,7 +42,7 @@
       <HintPath>..\..\..\..\Modulos\Contabilidad\Capa_VistaContabilidad\bin\Debug\Capa_VistaContabilidad.dll</HintPath>
     </Reference>
     <Reference Include="ComprasVista">
-      <HintPath>..\..\..\..\Modulos\Administracion\Vista\bin\Debug\ComprasVista.dll</HintPath>
+      <HintPath>..\..\..\..\Modulos\Colegio\Vista\bin\Debug\ComprasVista.dll</HintPath>
     </Reference>
     <Reference Include="eCryptography, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Eramake.eCryptography.1.1.6\lib\net45\eCryptography.dll</HintPath>

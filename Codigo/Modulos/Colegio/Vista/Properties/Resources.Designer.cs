@@ -73,6 +73,16 @@ namespace ComprasVista.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap col {
+            get {
+                object obj = ResourceManager.GetObject("col", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Soluciones_Contables {
             get {
                 object obj = ResourceManager.GetObject("Soluciones Contables", resourceCulture);
