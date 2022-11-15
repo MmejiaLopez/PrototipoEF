@@ -69,7 +69,10 @@ namespace ComprasVista
         private void btnCompra_Click(object sender, EventArgs e)
         {
             //Codigo
-            
+            Alumnos cl = new Alumnos();
+            cl.MdiParent = this;
+            cl.Show();
+            pictureBox2.Visible = false;
             //Ocultar submenu
             hideSubMenu();
 
@@ -88,7 +91,10 @@ namespace ComprasVista
         private void btnOrdenes_Click(object sender, EventArgs e)
         {
             //Codigo
-           
+            Maestros cl = new Maestros();
+            cl.MdiParent = this;
+            cl.Show();
+            pictureBox2.Visible = false;
             //Ocultar submenu
             hideSubMenu();
         }
