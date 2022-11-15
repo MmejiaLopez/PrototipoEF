@@ -716,7 +716,7 @@ namespace NavegadorControlador
                 MessageBox.Show("Error: " + e);
             }
         }*/
-
+        /*
         public void reporte(string id1)
         {
             
@@ -741,7 +741,7 @@ namespace NavegadorControlador
                
             
            
-        }
+        }*/
 
      }
 }

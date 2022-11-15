@@ -306,7 +306,7 @@ namespace NavegadorVista
         private void btnReporte_Click(object sender, EventArgs e)
         {
             cnseg.setBtitacora(idApp, "Reportes");
-            Report();
+            //Report();
             /*CapaVista.Consulta rp = new CapaVista.Consulta();
             rp.Show();*/
             //Reportes.Vista cr = new Reportes.Vista();
@@ -315,11 +315,11 @@ namespace NavegadorVista
              */
         }
 
-        public void Report()
+       /* public void Report()
         {
             
             cn.reporte(idApp);
 
-        }
+        }*/
     }
 }
